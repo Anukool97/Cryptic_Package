@@ -1,3 +1,6 @@
+# IN THIS PROJECT I HAVE ADDED MY MD5 hashing that verifies the secret key from the user , and then only will be allowed to run the decrypt or encrypt python program which uses Python Fernet encryption module #
+
+
 #  The fernet module of the cryptography package has inbuilt functions for the generation of the key, encryption of plaintext into ciphertext, and decryption of ciphertext into plaintext using the encrypt and decrypt methods respectively. The fernet module guarantees that data encrypted using it cannot be further manipulated or read without the key. #
 
 
